@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">✨Hi there, I'm Tania GD ✨</h1>
 
-<!--
-**taniagd/taniagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me✨</h2>
 
-Here are some ideas to get you started:
+```javascript
+const taniagd = {
+    pronouns: "She" | "Her",
+    askMeAbout: ["web dev", "twitterature"],
+    technologies: {
+        frontEnd:["HTML", "CSS", "Javascript", "Bootstrap"],
+        backEnd: ["Java"],
+        databases: ["MySql"]
+    }
+};
+```
+<h2>GitHub Stats ✨</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/taniagd">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=taniagd&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniagd&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+ 
