@@ -1,6 +1,6 @@
 <h1 align="center">✨Hi there, I'm Tania GD ✨</h1>
 
-<h2>About me✨</h2>
+<h2>About me 💫</h2>
 
 ```javascript
 const taniagd = {
@@ -13,7 +13,7 @@ const taniagd = {
     }
 };
 ```
-<h2>GitHub Stats ✨</h2>
+<h2>GitHub Stats 💫</h2>
 
 <div align="center">
   <a href="https://github.com/taniagd">
