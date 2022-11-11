@@ -1,18 +1,5 @@
 <h1 align="center">✨Hi there, I'm Tania GD ✨</h1>
 
-<h2>About me 💫</h2>
-
-```javascript
-const taniagd = {
-    pronouns: "She" | "Her",
-    askMeAbout: ["web dev", "twitterature"],
-    technologies: {
-        frontEnd:["HTML", "CSS", "Javascript", "Bootstrap"],
-        backEnd: ["Java"],
-        databases: ["MySql"]
-    }
-};
-```
 <h2>GitHub Stats 💫</h2>
 
 <div align="center">
